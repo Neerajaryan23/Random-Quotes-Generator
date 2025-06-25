@@ -1,0 +1,1 @@
+This is a simple and lightweight web app that displays a random quote each time you click a button. It's built using pure HTML, CSS, and JavaScript, making it perfect for beginners to understand DOM manipulation and randomization logic.
